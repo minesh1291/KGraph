@@ -1,0 +1,459 @@
+,Skills,Domain
+0,# This,"# belongs to, is type of, part of process"
+1,Classic Applied Science,01 Application Priority Legends
+2,Classic Techs,01 Application Priority Legends
+3,Classic Techs - Still Important,01 Application Priority Legends
+4,,01 Application Priority Legends
+5,,01 Application Priority Legends
+6,,01 Application Priority Legends
+7,,01 Application Priority Legends
+8,,01 Application Priority Legends
+9,FastAPI,"API, Python Library"
+10,Flasgger,"API, Python Library"
+11,Applied Mathematics,Appied Sciences
+12,Applied Physics,Appied Sciences
+13,Applied Statistics,Appied Sciences
+14,Aerospace,Application Domain
+15,Agriculture ,Application Domain
+16,Chemical,Application Domain
+17,Credit Risk Modeling,Application Domain
+18,Defense,Application Domain
+19,Education,Application Domain
+20,Energy,Application Domain
+21,Environment,Application Domain
+22,Finance,Application Domain
+23,Healthcare,Application Domain
+24,Human Resources,Application Domain
+25,Insurance ,Application Domain
+26,IoT,Application Domain
+27,Legal & Commercial Services,Application Domain
+28,Mobility,Application Domain
+29,Pharma,Application Domain
+30,Process Modeling / Mining,Application Domain
+31,Production & QA,Application Domain
+32,Real Estate,Application Domain
+33,Retail,Application Domain
+34,Security,Application Domain
+35,Supply Chain,Application Domain
+36,Transport - Mobility ,Application Domain
+37,Explainable Artificial Intelligence (XAI),Artificial Intelligence (AI)
+38,Backtrader,"Back Testing, Python Libraries"
+39,Node.js,"Backend Web Framework, Javascript"
+40,Flask,"Backend Web Framework, Python Library"
+41,BigDL,Big Data
+42,Hadoop,Big Data
+43,Spark,Big Data
+44,Practical Recommender Systems,"Book, Recommendation System"
+45,Cloud,Cloud Computing
+46,Solution Architechture,"Cloud Computing, Software Engineering"
+47,Clean Code Principles ,Coding Practice
+48,Code Review,Coding Practice
+49,Large Code Project,Coding Practice
+50,Refactoring,Coding Practice
+51,Robust Code,Coding Practice
+52,Unit Testing,Coding Practice
+53,Version Control,Coding Practice
+54,Stats.Stackexchange.com,"Community, Developer"
+55,Facebook,"Community, Job Board"
+56,Google Groups,"Community, Job Board, Code Issues"
+57,Research Gate,"Community, Research"
+58,Geometric Optimization,Computational Geometry
+59,Excel,Computer Skills
+60,Programing,Computer Skills
+61,Freelancing,Contract
+62,Mentoring,Contract
+63,Filter Size,"Parameters, Convolutional Neural Network (CNN)"
+64,n - Filters,"Parameters, Convolutional Neural Network (CNN)"
+65,Parameters,Convolutional Neural Network (CNN)
+66,Objects,"Concept, Convolutional Neural Network (CNN)"
+67,Edges,"Concept, Convolutional Neural Network (CNN)"
+68,Patterns,"Concept, Convolutional Neural Network (CNN)"
+69,CNN - Concept,Convolutional Neural Network (CNN)
+70,Images,"Concept, Convolutional Neural Network (CNN)"
+71,Channels,Convolutional Neural Network (CNN)
+72,Kernels / Filters,Convolutional Neural Network (CNN)
+73,Pooling Layers,Convolutional Neural Network (CNN)
+74,Padding,Convolutional Neural Network (CNN)
+75,Flattened,Convolutional Neural Network (CNN)
+76,Back Propagation,Deep Learning
+77,Pearson's correlation ,Correlations
+78,Crypto Wallet,Crypto Trading
+79,KuCoin,Crypto Wallet
+80,Analytics and Insights,Data Analysis
+81,Analytics Reporting,Data Analysis
+82,"Communicate trends, patterns, and predictions",Data Analysis
+83,Data Mining,Data Analysis
+84,Diagnostic and Predictive Analytics,Data Analysis
+85,Segmentation / Context,Data Analysis
+86,Statistical Tools / Tests,Data Analysis
+87,Structured Data Mining,Data Analysis
+88,UnStructured Data Mining,Data Analysis
+89,Data Down Sampling,Data Augmentation
+90,Data Extrapolation,Data Augmentation
+91,Data Interpolation ,Data Augmentation
+92,Data Upsampling,Data Augmentation
+93,Datasets,Data Collection
+94,Data Types,"Data Collection, Feature Extraction, Feature Engineering"
+95,AWS DynamoDB,Data Engineering
+96,BigQuery,Data Engineering
+97,Designing and Maintaining Data Systems,Data Engineering
+98,Develop policies for data governance,Data Engineering
+99,Feature Extraction,Data Engineering
+100,Kafka,Data Engineering
+101,Logstash,Data Engineering
+102,NoSQL Databases,Data Engineering
+103,RDBMS,Data Engineering
+104,Relational Databases,Data Engineering
+105,Spark,Data Engineering
+106,Time and space complexity analysis,Data Engineering
+107,Mainframe ,Data Engineering / Software Engineering 
+108,GraphQL,"Data Engineering, Analytics"
+109,SQL,"Data Engineering, Analytics"
+110,Elastic Search,"Data Engineering, Analytics, Information Retrieval, Search Engine, Elasticsearch, Distributed"
+111,Data Augmentation,Data Preparations
+112,Datasets Version Control ,Data Preparations
+113,Splitting the Datasets ,Data Preparations
+114,Combining Data,Data Processing
+115,Data Cleansing,Data Processing
+116,Data Normalization,Data Processing
+117,Data Scaling,Data Processing
+118,Data Transformation,Data Processing
+119,Application Domain,Data Science
+120,Data Analysis,Data Science
+121,Data Collection ,Data Science
+122,Data Collection Strategies,Data Science
+123,Data Engineering,Data Science
+124,Data Science Life Cycle,Data Science
+125,Machine Learning Engineering,Data Science
+126,Management Consultancy,Data Science
+127,Operations Research,Data Science
+128,Quant Research,Data Science
+129,Software Development,Data Science
+130,"ML / DL Best Practice, maximum impact to the project, no code/time/trial waste ",Data Science 
+131,Business & Technology Integration,"Data Science, Business"
+132,Solution Planing,"Data Science, Transferable Skills"
+133,Solve Business Problem,"Data Science, Transferable Skills"
+134,Geospatial GIS (Geographic Information System),Data Types
+135,Graph / Network Data,Data Types
+136,Image,Data Types
+137,Spatio Temporal,Data Types
+138,Tabular,Data Types
+139,Temporal Graph / Network,Data Types
+140,Text (Natural Language Processing),Data Types
+141,Time Series,Data Types
+142,Video,Data Types
+143,Cytoscape.js,Data Visualization / Reporting / Dashboard
+144,D3.js,Data Visualization / Reporting / Dashboard
+145,Kibana,Data Visualization / Reporting / Dashboard
+146,Matplotlib,Data Visualization / Reporting / Dashboard
+147,Power BI,Data Visualization / Reporting / Dashboard
+148,Seaborn,Data Visualization / Reporting / Dashboard
+149,Tableau,Data Visualization / Reporting / Dashboard
+150,Vega.js,Data Visualization / Reporting / Dashboard
+151,Data Lake,Data Warehouse Scalable
+152,GCP BigQuery,"Data Warehouse, (S-C)"
+153,Snowflake,"Data Warehouse, (S-C)"
+154,AWS RedShift,"Data Warehouse, (S+C)"
+155,Hugging Face Datasets ,Datasets
+156,Deep Learning Architecture,Deep Learning
+157,Deep Learning Pretrained Models,Deep Learning
+158,Unsupervised Deep Learning,Deep Learning
+159,Weight Initialization,Deep Learning
+160,Xavier Weight Initialization,Weight Initialization
+161,Normalized Xavier Weight Initialization,Weight Initialization
+162,He Weight Initialization,Weight Initialization
+163,,Weight Initialization
+165,Attention Mechanism,Deep Learning Architecture
+166,Convolutional Neural Network (CNN),Deep Learning Architecture
+167,Bernoulli Restricted Boltzmann Machine (RBM),Deep Learning Architecture
+168,Generative Models (GAN),Deep Learning Architecture
+169,Quantization and Prunning for Acc,Deep Learning Architecture
+170,Recurrent Models (RNN),Deep Learning Architecture
+171,ResNet,Deep Learning Architecture
+172,SegNet,Deep Learning Architecture
+173,Seq2Seq,Deep Learning Architecture
+174,Variational Auto Encoder (VAE),Deep Learning Architecture
+175,VGG,Deep Learning Architecture
+176,VGGSound,Deep Learning Architecture
+177,WaveNet,Deep Learning Architecture
+178,Auto Encoder (AE),"Deep Learning Architectures, Dimensionality Reduction"
+179,Keras,Deep Learning Libraries
+180,Tensorflow,Deep Learning Libraries
+181,Pytorch,"Deep Learning Libraries, Rapid Experimentation"
+182,Ansible,DevOps
+183,Chef,DevOps
+184,"CI/CD, design, develop, implement, test, deploy and operate the components and services",DevOps
+185,"Cloud Code repository, gcp, aws, azure",DevOps
+186,Docker,DevOps
+187,Jenkins,DevOps
+188,Kubernetes,DevOps
+189,Puppet,DevOps
+190,Terraform,DevOps
+191,"Git, Github, Gitlab, bit bucket ","DevOps, Version Control"
+192,ManiFold,Dimensionality Reduction
+193,PCA,Dimensionality Reduction
+194,T-SNE,Dimensionality Reduction
+195,City Block (Manhattan) Distance,Distances
+196,Cosine Distance,Distances
+197,Euclidean distance,Distances
+198,Hausdorff Distance,Distances
+199,Dedicated Training and Personal Development ,Employee Benefits
+200,Increment Cycle - Smaller / More Frequent,Employee Benefits
+201,Performance Bonus,Employee Benefits
+202,Salary - Monthly,Employee Benefits
+203,Tax Benefits,Employee Benefits
+204,Notification Period,Employee Policy
+205,Freelancing,Entrepreneurship
+206,Back Testing,"Evaluation, Forecasting, Trading, Finance"
+207,LIME,Explainable ML
+208,SHAP,Explainable ML
+209,RDF - Ontology,File Format
+210,Fraud Detection,"Finance, Anomaly Detection"
+211,Darts,"Forecasting, Time Series Analysis, TSA Python Library"
+212,Prophet,"Forecasting, Time Series Analysis, TSA Python Library"
+213,Merlion,"Forecasting, Time Series Analysis, TSA Python Library, Anomaly Detection"
+214,UpWork,Freelancing
+215,CSS,Frontend
+216,Html,Frontend
+217,React.js,Frontend
+218,Distances,Geometry
+219,Neo4J,Graph / Network Data Modeling / Processing
+220,Networkx,Graph / Network Data Modeling / Processing
+221,Streamlit,Hosting
+222,Memcached,In-Memory Storage
+223,Redis,In-Memory Storage
+224,LinkedIn.com,"Job Boards, Community, Professional"
+225,CV Design,Job Search
+226,Profile / Portfolio Creation,Job Search
+227,Social Networking,Job Search
+228,Knowledge Graph,Knowledge Management & Query
+229,Ontology,Knowledge Management & Query
+230,"Bash, Grep, Awk, Sed",Linux
+231,Audio Classification & Analysis,Machine Learning Engineering
+232,Causal ML,Machine Learning Engineering
+233,Computer Vision ,Machine Learning Engineering
+234,Deep Learning Algorithms and Frameworks,Machine Learning Engineering
+235,Deep Learning,Machine Learning Engineering
+236,Dimensionality Reduction,Machine Learning Engineering
+237,Feature Engineering,Machine Learning Engineering
+238,GMM,Machine Learning Engineering
+239,HMM,Machine Learning Engineering
+240,Machine Learning Life Cycle,Machine Learning Engineering
+241,Model Evaluation,Machine Learning Engineering
+242,Natural Language Processing (NLP),Machine Learning Engineering
+243,Recommendation System,Machine Learning Engineering
+244,Reinforcement Learning,Machine Learning Engineering
+245,Software Development,Machine Learning Engineering
+246,Time Series Analysis / Modeling,Machine Learning Engineering
+247,Apache MLlib,Machine Learning Libraries
+248,Apache MXNET,Machine Learning Libraries
+249,Apple’s Core ML,Machine Learning Libraries
+250,H2O-3,Machine Learning Libraries
+251,Microsoft Cognitive Toolkit (CNTK),Machine Learning Libraries
+252,SciKit Learn,Machine Learning Libraries
+253,Algebra,Mathematics
+254,Calculus,Mathematics
+255,Geometry,Mathematics
+256,KubeFlow,MLOps
+257,MLFow,MLOps
+258,Weights & Biases,MLOps
+259,CNVRG,MLOps Providers
+260,Area Under the Curve (AUC-ROC) ,"Model Evaluation, Classification "
+261,"Precision, Recall, Sensitivity, Specificity ","Model Evaluation, Classification "
+262,Receiver operating characteristic curve (ROC) ,"Model Evaluation, Classification "
+263,Correlations,"Model Evaluation, Regression "
+264,Gensim,"Natural Language Processing (NLP), NLP Python Library"
+265,Spacy,"Natural Language Processing (NLP), NLP Python Library"
+266,StanfordNLP,"Natural Language Processing, NLP Python Library"
+267,Textract,NLP Python Library
+268,Cassandra,NoSQL Databases
+269,MongoDB,NoSQL Databases
+270,FireStore,NoSQL Databases
+271,Multi-scale order-less pooling (MOP),Novel Pooling Methods
+272,Super-pixel Pooling,Novel Pooling Methods
+273,PCA Pooling,Novel Pooling Methods
+274,Compact Bilinear Pooling,Novel Pooling Methods
+275,Lead Asymmetric Pooling (LAP),Novel Pooling Methods
+276,Edge-aware Pyramid Pooling,Novel Pooling Methods
+277,Spectral Pooling,Novel Pooling Methods
+278,Row-Wise Max-Pooling,Novel Pooling Methods
+279,Intermap pooling (IMP),Novel Pooling Methods
+280,Per-pixel Pyramid Pooling,Novel Pooling Methods
+281,Rank-based Average Pooling,Novel Pooling Methods
+282,Weighted Pooling,Novel Pooling Methods
+283,Genetic-Based Pooling,Novel Pooling Methods
+284,Candidate Shortlisting,Objectives / Tasks
+285,Inventory Tracking - Supply Chain,Objectives / Tasks
+286,Speech Recognition,Objectives / Tasks
+287,Face Recognition,Objectives / Tasks - Image Processing
+288,Instance Segmentation,Objectives / Tasks - Image Processing
+289,Object Detection,Objectives / Tasks - Image Processing
+290,Semantic Segmentation,Objectives / Tasks - Image Processing
+291,Building Knowledge Graph,Objectives / Tasks - Natural Language Processing
+292,Keyword Extraction ,Objectives / Tasks - Natural Language Processing
+293,Knowledge Representation,Objectives / Tasks - Natural Language Processing
+294,Named Entity Recognition (NER),Objectives / Tasks - Natural Language Processing
+295,Semantic Segmentation,Objectives / Tasks - Natural Language Processing
+296,Semantic Textual Similarity,Objectives / Tasks - Natural Language Processing
+297,Sentiment Analysis,Objectives / Tasks - Natural Language Processing
+298,Text classification,Objectives / Tasks - Natural Language Processing
+299,Topic Modeling,Objectives / Tasks - Natural Language Processing
+300,Topic Modelling,Objectives / Tasks - Natural Language Processing
+301,Optimization,Objectives / Tasks - Operations Research
+302,Predictive Maintenance - IoT,Objectives / Tasks - Time Series Analysis
+303,Semantic Segmentation,Objectives / Tasks - Time Series Analysis
+304,Time Series Chains,Objectives / Tasks - Time Series Analysis
+305,Time Series Pattern Matching,Objectives / Tasks - Time Series Analysis
+306,Linux,Operating System (OS)
+307,Windows,Operating System (OS)
+308,Business Process Delivery,Operations
+309,Information Technology Operations,Operations
+310,Anomaly Detection,Outlier Detection
+311,Max Pooling,Pooling Layers
+312,Average Pooling,Pooling Layers
+313,Mixed Pooling,Pooling Layers
+314,𝑳𝑷 Pooling,Pooling Layers
+315,Stochastic Pooling,Pooling Layers
+316,Spatial Pyramid Pooling,Pooling Layers
+317,Region of Interest Pooling,Pooling Layers
+318,Novel Pooling Methods,Pooling Layers
+319,"Open source contributions, Github ","Portfolio, Social Networking, Out Reach"
+320,Slide share ,"Portfolio, Social Networking, Out Reach"
+321,"Video Broadcasting, youtube, twich","Portfolio, Social Networking, Out Reach"
+322,Academic Communication,"Professional Skills, Transferable Skills"
+323,Business Communication,"Professional Skills, Transferable Skills"
+324,Leadership,"Professional Skills, Transferable Skills"
+325,Start Up,"Professional Skills, Transferable Skills"
+326,Technical Communication,"Professional Skills, Transferable Skills"
+327,C++,Programming / Scripting
+328,Java,Programming / Scripting
+329,Javascript,Programming / Scripting
+330,Python,Programming / Scripting
+331,Scala,Programming / Scripting
+332,Numpy,Python Libraries
+333,Pandas,Python Libraries
+334,Scipy,Python Libraries
+335,SQLAlchemy,Python Libraries
+336,Pyfolio,Python Libraries
+337,Catalyst,"Pytorch, Rapid Experimentation"
+338,FastAI,"Pytorch, Rapid Experimentation"
+339,Pytorch Ignite,"Pytorch, Rapid Experimentation"
+340,Pytorch Lightning,"Pytorch, Rapid Experimentation"
+341,Forex,Quant Research 
+342,Building Proof of Concept,R & D
+343,Cutting Edge Applications,R & D
+344,Design and Prototype solutions ,R & D
+345,Increase value of the product and service through smarter decision making ,R & D
+346,Innovative Software Solutions,R & D
+347,DBeaver,RDBMS
+348,MySQL,RDBMS
+349,OmniDB,RDBMS
+350,PostgreSQL,RDBMS
+351,Adaptive Information Access,Recommendation System
+352,Ephemeral Personalization,Recommendation System
+353,Information Filtering,Recommendation System
+354,Information Retrieval,Recommendation System
+355,Persistent Personalization,Recommendation System
+356,What is X? (Definition),Research A Topic (X)
+357,Why X is required? (Need / Motivation),Research A Topic (X)
+358,How does X work? (Concept),Research A Topic (X)
+359,Pros. of X,Research A Topic (X)
+360,Cons. of X,Research A Topic (X)
+361,Future of X,Research A Topic (X)
+362,AI Architect,Roles / Positions
+363,AI Model Trainer / Machine Learning Engineer,Roles / Positions
+364,AI Product Manager,Roles / Positions
+365,AI Software Engineer,Roles / Positions
+366,AI Specialist,Roles / Positions
+367,Data Scientist,Roles / Positions
+368,SegLearn,"SciKit Learn, Time Series Analysis, TSA Python Library, Segmentation"
+369,Apache Lucene,"Search Engine, Open Source"
+370,Solr,"Search Engine, Open Source, Elasticsearch, Distributed"
+371,"Evaluating, Visualizing and Explaining Data Science concepts and outcomes ",Soft Skill
+372,Agile Methodologies,Software Development
+373,Algorithms,Software Development
+374,API,Software Development
+375,Code Debugging,Software Development
+376,Cuda,Software Development
+377,Data Structures,Software Development
+378,Designing and Developing Analytics Tools,Software Development
+379,"DevOps, deploy to production",Software Development
+380,Jira,Software Development
+381,Multiprocessing / Parallel Processing,Software Development
+382,SDLC,Software Development
+383,Cloud Architect,Software Engineering
+384,Solution Architecture,Software Engineering
+385,Distributions,Statistics
+386,Correlation test,Statistics and Probability
+387,Kolmogorov–Smirnov test,Statistics and Probability
+388,Probability Density Function (PDF) ,Statistics and Probability
+389,Probability Mass function (PMF),Statistics and Probability
+390,T-test,Statistics and Probability
+391,"Testing, Deployment, Monitoring and Support",Support
+392,Apache JMeter,Testing
+393,Wavelet,Time Series Analysis
+394,Wavelet Transformation,Time Series Analysis / Feature Extraction
+395,Image Representation of Time Series,Time Series Analysis / Modeling
+396,Kats,"Time Series Analysis, TSA Python Library"
+397,Matrixprofile,"Time Series Analysis, TSA Python Library"
+398,Stumpy,"Time Series Analysis, TSA Python Library"
+399,TSFresh,"Time Series Analysis, TSA Python Library, Feature Extraction"
+400,BERTopic,Topic Modelling
+401,Crypto Trading,Trading
+402,Adaptability,Transferable Skills
+403,Analytical Reasoning,Transferable Skills
+404,Attention to Detail,Transferable Skills
+405,"Collaborative Development, Organizational Leadership",Transferable Skills
+406,"Product Owners, Work as Individual Contributor",Transferable Skills
+407,Computer Skills,Transferable Skills
+408,Creativity,Transferable Skills
+409,Critical Thinking,Transferable Skills
+410,"Engineering, Make it work",Transferable Skills
+411,"Identify opportunities for process improvements, recommend system modifications",Transferable Skills
+412,Knowledge sharing with colleagues ,Transferable Skills
+413,Management,Transferable Skills
+414,Problem Solving,Transferable Skills
+415,Project Management,Transferable Skills
+416,Relationship Building,Transferable Skills
+417,Teamwork,Transferable Skills
+418,Communication ,Transferable Skills 
+419,Working in a startup environment / culture ,"Transferable Skills, R & D"
+420,Strategy,"Transferable Skills, R & D, Business"
+450,Stride,"Parameters, Convolutional Neural Network (CNN)"
+451,Input Image Size,"Parameters, Convolutional Neural Network (CNN)"
+452,Activation Functions,"Parameters, Convolutional Neural Network (CNN)"
+453,"Padding, Dropout","Parameters, Convolutional Neural Network (CNN)"
+455,Google Colab ,IDE
+456,VS Code,IDE
+457,Pycharm,IDE
+458,Jupyter Server,IDE
+459,Code Server,IDE
+460,CNN - Explainer,Convolutional Neural Network (CNN)
+461,CNN Visualizer,Convolutional Neural Network (CNN)
+464,Graph Convolutional Networks (GCN),Deep Learning Architecture
+465,Spektral,Deep Learning Libraries
+466,Hyperparameter Tuning,Machine Learning Engineering
+467,Regularization,Machine Learning Engineering
+468,Optimization,Machine Learning Engineering
+469,,Recommendation System
+470,Biomedical,Healthcare
+471,Photoplethysmography (PPG),"Biomedical, IoT"
+472,Experimentation,Research
+473,Documentation,Research
+474,Evaluation,Research
+475,Literature Review,Research
+476,Publishing Articles,Research
+477,Presentation,Research
+478,,Research
+479,GPU,"Deep Learning, Hardware"
+480,Multi GPU Strategy,"Deep Learning, Model Training"
+481,Data parallelism,"Multi GPU Strategy, Pytorch"
+482,Distributed data parallelism,"Multi GPU Strategy, Pytorch"
+483,Model parallelism,"Multi GPU Strategy, Pytorch"
+484,Elastic training,"Multi GPU Strategy, Pytorch"
+485,MirroredStrategy,"Multi GPU Strategy, Tensorflow"
+486,TPUStrategy,"Multi GPU Strategy, Tensorflow"
+487,MultiWorkerMirroredStrategy,"Multi GPU Strategy, Tensorflow"
+488,ParameterServerStrategy,"Multi GPU Strategy, Tensorflow"
+489,CentralStorageStrategy,"Multi GPU Strategy, Tensorflow"
+490,John Snow Labs,Natural Language Processing (NLP)
